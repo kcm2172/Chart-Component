@@ -1,0 +1,4 @@
+<div data-uri="{{ _ref or _self }}" class="chart-bar" data-editable = "data" data-height="{{height}}"  data-barPadding="{{barPadding}}" data-title="{{title}}" data-xTitle="{{xTitle}}" data-yTitle="{{yTitle}}">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script> window['{{ _ref or _self }}'] = {{ data | safe }};</script>
+</div>
