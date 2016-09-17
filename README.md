@@ -1,3 +1,5 @@
+# SMALL SNIPPET OF CODE
+
 # chart-bar
 A component for [Clay](https://github.com/nymag/amphora/wiki#clay-is-divided-into-components).
 
